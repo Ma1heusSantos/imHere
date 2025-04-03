@@ -64,10 +64,6 @@ Botão reutilizável com suporte a diferentes cores de fundo.
 ### **Participant**
 Componente que exibe o nome de um participante e um botão para removê-lo.
 
-## 🖼️ Capturas de Tela
-
-Adicione aqui capturas de tela do aplicativo para ilustrar sua funcionalidade.
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo:
